@@ -4,7 +4,7 @@
 from distutils.core import setup
 
 setup(name='Pycolor',
-      version='1.2.0',
+      version='1.2.1',
       description='Ansi color for python',
       author='Will Drach',
       license='Beerware',
