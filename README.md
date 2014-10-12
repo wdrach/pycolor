@@ -5,9 +5,15 @@ A color module for python
 
 # Setup
 ```
-git clone https://github.com/Merglyn/pycolor.git
-cd pycolor
-sudo python setup.py install
+$ git clone https://github.com/Merglyn/pycolor.git
+$ cd pycolor
+$ sudo python setup.py install
+```
+
+or
+
+```
+$ sudo pip install pycolor
 ```
 
 # Intro
