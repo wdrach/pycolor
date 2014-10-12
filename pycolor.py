@@ -5,6 +5,8 @@ import random
 import sys
 from sys import stdout
 
+VERSION = '1.2.0'
+
 escape = '\033['
 
 ## General things about Ansii escape sequences
