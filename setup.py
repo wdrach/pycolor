@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# setup.py for Pycolor
 
 from distutils.core import setup
 
