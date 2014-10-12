@@ -3,7 +3,7 @@
 
 from distutils.core import setup
 
-setup(name='Pycolor',
+setup(name='Pycol',
       version='1.2.0',
       description='Ansi color for python',
       author='Will Drach',
