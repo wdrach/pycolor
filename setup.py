@@ -8,4 +8,4 @@ setup(name='Pycolor',
       author='Will Drach',
       author_email='will.drach@live.com',
       url='http://www.drach.co/pycolor',
-      packages=['pycolor.py'])
+      packages=['pycolor'])
