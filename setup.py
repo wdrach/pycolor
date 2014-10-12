@@ -21,6 +21,6 @@ setup(name='Pycolor',
       'Intended Audience :: Developers',
       'Topic :: Software Development :: Libraries :: Python Modules'
       ],
-      keywords='ansi color terminal colors'.
-      install_requires=['random', 'sys'],
+      keywords='ansi color terminal colors',
+      install_requires=['random', 'sys']
       )
