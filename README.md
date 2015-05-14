@@ -31,8 +31,8 @@ do rainbow, because we're gangster like that.
 # Examples
 #### print blue text
 ```python
-import color
-from color import color_string
+import pycolor
+from pycolor import print_color
 our_string = 'Testing that color module'
 print_color(our_string, fg_color = 'blue')
 ```
@@ -42,9 +42,9 @@ print_color(our_string, fg_color = 'blue')
 ##### (gotta have some fun reading old logs right?)
 
 ```python
-import color
+import pycolor
 import sys
-from color import color_string
+from pycolor import color_string
 from sys import stderr
 print('nyan')
 error_nyan = color_string('ERROR! Unexpected Nyan\n', fg_color = 'rainbow')
@@ -54,8 +54,8 @@ stderr.write(error_nyan)
 #### print some black text on white background
 
 ```python
-import color
-from color import print_color
+import pycolor
+from pycolor import print_color
 print_color('some black text on white background',
             fg_color = 'black',
             bg_color = 'white')
